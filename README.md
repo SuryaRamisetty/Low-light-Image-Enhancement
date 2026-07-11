@@ -88,3 +88,17 @@ demo/enhanced/
 B.Tech CSE (AI & ML)
 
 SRM Institute of Science and Technology
+
+---
+
+# 📸 Results
+
+## Original Image
+
+![Original Image](images/input.bmp)
+
+---
+
+## Enhanced Image
+
+![Enhanced Image](images/output.bmp)
